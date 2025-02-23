@@ -11,3 +11,5 @@ Now just use:
 ```
 npm run dev
 ```
+
+You should find the application running at http://localhost:3001
